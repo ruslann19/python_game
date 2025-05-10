@@ -1,6 +1,6 @@
-from Game21.Game21 import Game21
+from Game21 import Game21
 
-from Player.Player import Player
+from Player import Player
 
 players = [
     Player("Ваня"),
